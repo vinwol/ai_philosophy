@@ -8,11 +8,11 @@ Collected material on the Philosophy of Artificial Intelligence.
 
 ## Courses
 
-* [`University of Oxford: The Philosophy of Artificial Intelligence`](https://www.conted.ox.ac.uk/courses/the-philosophy-of-artificial-intelligence) 
-** Week 1:  The beginnings of computing and the rise of the machines .
-* [`Philosophy Academy: Philosophy of Artificial Intelligence`](https://www.youtube.com/watch?v=UZjfMci7u0k) 
-* [`Udemy: Philosophy and Foundations of Artificial Intelligence`](https://www.udemy.com/course/philosophy-and-foundations-of-artificial-intelligence-ai/learn/lecture/44311850#overview) 
-* [`Crash Course Philosophy: Artificial Intelligence and Personhood`](https://www.youtube.com/watch?v=39EdqUbj92U) 
+* [`University of Oxford: The Philosophy of Artificial Intelligence`](https://www.conted.ox.ac.uk/courses/the-philosophy-of-artificial-intelligence)  
+  - **Week 1:** The beginnings of computing and the rise of the machines.
+* [`Philosophy Academy: Philosophy of Artificial Intelligence`](https://www.youtube.com/watch?v=UZjfMci7u0k)
+* [`Udemy: Philosophy and Foundations of Artificial Intelligence`](https://www.udemy.com/course/philosophy-and-foundations-of-artificial-intelligence-ai/learn/lecture/44311850#overview)
+* [`Crash Course Philosophy: Artificial Intelligence and Personhood`](https://www.youtube.com/watch?v=39EdqUbj92U)
 
 ## AI and Ethics
 
